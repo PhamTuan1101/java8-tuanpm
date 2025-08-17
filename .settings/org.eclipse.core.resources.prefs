@@ -1,8 +1,11 @@
 eclipse.preferences.version=1
 encoding//src/com/dd/tuanpm/Datetime_APIChanges.java=UTF-8
 encoding//src/com/dd/tuanpm/DefaultMethod.java=UTF-8
+encoding//src/com/dd/tuanpm/FlatMapEx.java=UTF-8
 encoding//src/com/dd/tuanpm/FunctionalInterfacee.java=UTF-8
 encoding//src/com/dd/tuanpm/LambdaExpression.java=UTF-8
 encoding//src/com/dd/tuanpm/LambdaExpressionEx.java=UTF-8
+encoding//src/com/dd/tuanpm/Product.java=UTF-8
 encoding//src/com/dd/tuanpm/Streams.java=UTF-8
+encoding//src/com/dd/tuanpm/StreamsFilterExamples.java=UTF-8
 encoding/<project>=windows-1252
